@@ -6,7 +6,7 @@ This repo aims to be a comprehensive summary with examples of all the concepts f
 
 1. Frontend
     1. [Fundamentals](./Fundamentals/fundamentals.md) (TODO)
-    2. Component frameworks: React (TODO)
+    2. [Component frameworks (React)]: (./React/react.md) (TODO)
     3. [Frontend tooling](./Tooling/tooling.md)
     4. [Web performance](./Performance/performance.md)
 
